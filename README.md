@@ -13,3 +13,5 @@ El primer acercamiento a la gran base de datos por felipe recabarren se viene co
 ## *todo bien por el momento no hay muchas complicaciones respecto al uso de GIT
 *Bien*
 * Revisando GITHUB TEXTO
+
+## Prueba en Studio code

@@ -7,6 +7,7 @@ El primer acercamiento a la gran base de datos por felipe recabarren se viene co
 *Introduccion
 
 *Primeros pasos en GIT
-## Clase 1 online
+# Clase 2 online
 
-*Modificaciones
+*Modificaciones.MD
+## *todo bien por el momento no hay muchas complicaciones respecto al uso de GIT*

@@ -12,3 +12,4 @@ El primer acercamiento a la gran base de datos por felipe recabarren se viene co
 *Modificaciones.MD
 ## *todo bien por el momento no hay muchas complicaciones respecto al uso de GIT
 *Bien*
+* Revisando GITHUB TEXTO

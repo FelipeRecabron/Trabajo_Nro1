@@ -17,6 +17,3 @@ El primer acercamiento a la gran base de datos por felipe recabarren se viene co
 * Revisando GITHUB TEXTO
 
 ## Prueba en Studio code
-
-* sopa de carne
-* si funciona

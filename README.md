@@ -10,4 +10,5 @@ El primer acercamiento a la gran base de datos por felipe recabarren se viene co
 # Clase 2 online
 
 *Modificaciones.MD
-## *todo bien por el momento no hay muchas complicaciones respecto al uso de GIT*
+## *todo bien por el momento no hay muchas complicaciones respecto al uso de GIT
+*Bien*

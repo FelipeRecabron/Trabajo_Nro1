@@ -1,3 +1,5 @@
+![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Herramientadefuturosporyectosgranprofesional/blob/main/png-clipart-apache-hadoop-big-data-hortonworks-apache-spark-cloudera-circuit-board-mammal-carnivoran.png)
+
 # Herramientadefuturosporyectosgranprofesional
 El primer acercamiento a la gran base de datos por felipe recabarren se viene cositas preparaos mundo que vengo a conquistarlos 77 >;(
 

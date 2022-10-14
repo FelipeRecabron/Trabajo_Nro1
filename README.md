@@ -1,4 +1,4 @@
-![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Trabajo_Nro1/blob/main/Trabajo-Nro1/maxresdefault.jpg)
+![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Trabajo_Nro1/blob/main/docs/maxresdefault.jpg)
 
 # Trabajo_Nro1
 
@@ -14,5 +14,4 @@ Enviar por correo a amaru.fernandezd@utem.cl, con su nombre completo, la direcci
 **** El descubrimiento de 2 trabajos prácticamente iguales, conlleva nota 1.0
 ****** Solo se evaluarán los trabajos que estén versionados en la pagina de github
                                                                            ¡ Exito :-) !
-![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Trabajo_Nro1/blob/main/Trabajo-Nro1/maxresdefault.jpg)
 

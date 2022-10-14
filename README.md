@@ -1,19 +1,5 @@
 ![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Herramientadefuturosporyectosgranprofesional/blob/main/png-clipart-apache-hadoop-big-data-hortonworks-apache-spark-cloudera-circuit-board-mammal-carnivoran.png)
 
-# Herramientadefuturosporyectosgranprofesional
-El primer acercamiento a la gran base de datos por felipe recabarren se viene cositas preparaos mundo que vengo a conquistarlos 77 >;(
+# Trabajo_Nro1
 
-## Primera clase con profesor Amarufd
-* Presentacion del curso
-
-* Introduccion
-
-* Primeros pasos en GIT
-# Clase 2 online
-
-*Modificaciones.MD
-## *todo bien por el momento no hay muchas complicaciones respecto al uso de GIT
-*Bien*
-* Revisando GITHUB TEXTO
-
-## Prueba en Studio code
+AntesdecomenzarcrearemosunrepositorioenGitparadesarrollareltrabajoelcualserállamado“Trabajo_Nro1”,noolvidaractivarlacreacióndelarchivoREADME.md.Acontinuaciónclonarelrepositorioensuequipolocal.IrcompletandoelarchivoREADME.mdconladescripcióndelorealizado e impresiones.Ahoraconelequipoconfiguradocrearemosunmini-sitiousandoloaprendidorespectoaHTML,coneleditorvisualstudiocode.Lapáginaquevaacontenertodalainformacióndebellevarportítuloindex.html,dentro de esta cree un div, que contengados div: en el primero agregue dos div.Unodebeunaimagen,yenelsegundounanoticiaoestudiocontítulo,yelrestodelcontenidoeneltag“p”.EnelsegundodivdelaprimeradivisiónUd.Deberáconstruirunatablaquecontengaalomenos10datosasociadosalanoticia/estudio.Noolvidecrearyasignar clases a los diferentes div que describan el tipo de contenido que contiene.Seguir la imagen que se muestra a continuaciónUnavezterminadalapágina,éstaseráexpuestaalmundo,paraestosevanasettings>pages,unavezahí,iraltítulobranches,enlasegundacasillaseleccionarlaopción“/(root)“,finalmenteclickearensave,esperarunratoylesaparecerálarutadondepuedenver su página.Enviarporcorreoaamaru.fernandezd@utem.cl,consunombrecompleto,ladireccióndelrepositorioypágina,seevaluarácalidaddeltema,originalidaddelapágina,elementosquela diferencien de páginas entre sus compañeros.*** El incumplimiento de las instrucciones básicas acarreará consecuencias en su nota**** El descubrimiento de  2 trabajos prácticamente iguales, conlleva nota 1.0****** Solo se evaluarán los trabajos que estén versionados en la pagina de github¡ Exito :-) !

@@ -1,4 +1,4 @@
-![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Herramientadefuturosporyectosgranprofesional/blob/main/png-clipart-apache-hadoop-big-data-hortonworks-apache-spark-cloudera-circuit-board-mammal-carnivoran.png)
+![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Trabajo_Nro1/commit/17551cacc89d904736238792853bd18148ad98a2)
 
 # Trabajo_Nro1
 

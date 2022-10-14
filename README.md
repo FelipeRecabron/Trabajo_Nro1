@@ -1,4 +1,4 @@
-![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Trabajo_Nro1/blob/main/docs/maxresdefault.jpg)
+![IMAGEN DE LA CLASE](https://github.com/FelipeRecabron/Trabajo_Nro1/blob/main/maxresdefault.jpg)
 
 # Trabajo_Nro1
 

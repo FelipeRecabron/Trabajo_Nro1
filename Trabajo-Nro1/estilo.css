@@ -1,0 +1,38 @@
+/* modificando los ID*/
+#header {
+    padding: 30px;
+    background-color: rgb(136, 209, 94);
+    display: flex;}
+    
+
+#footer {
+    padding: 30%;
+    background-color: rgb(226, 83, 64);}
+    /* modificando las clases */
+    /* Modificando los tags */
+#contend { 
+    padding: 20px;
+    margin: 40px;
+    background-color: orchid;}
+
+    /* Modificando las clases */
+
+   .header-title { 
+    padding-left: 68px;
+    width: 100%;}
+
+   .header-image {
+    width: 18%;}
+
+   .deportesohobbis {
+        width: 20px;
+        margin: 20px
+        
+     }
+
+body{
+            background-color: rgb(255, 225, 55);}
+
+table, tr, td, th{
+            border: solid black 4px;
+        }
